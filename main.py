@@ -1,3 +1,9 @@
+
+####################################
+# Hidden File Detector  Script
+# Author: 1cYinfinity
+####################################
+
 import os
 import concurrent.futures
 import imghdr
