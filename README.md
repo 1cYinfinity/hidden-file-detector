@@ -6,7 +6,7 @@ Hidden File Detector is a Python tool designed to search for hidden files within
 
 1. Clone the repository to your local machine:</br>
 ```
-git clone https://github.com/your-username/hidden-file-detector.git
+git clone https://github.com/1cYinfinity/hidden-file-detector.git
 ```
 
 3. Navigate to the project directory:</br>
@@ -52,4 +52,4 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE]LICENSE file for details.
