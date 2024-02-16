@@ -5,20 +5,28 @@ Hidden File Detector is a Python tool designed to search for hidden files within
 ## Usage
 
 1. Clone the repository to your local machine:</br>
-  ```git clone https://github.com/your-username/hidden-file-detector.git```
+```
+git clone https://github.com/your-username/hidden-file-detector.git
+```
 
-2. Navigate to the project directory:</br>
-  ```cd hidden-file-detector```
+3. Navigate to the project directory:</br>
+  ```
+cd hidden-file-detector
+```
 
-3. Install the required dependencies:</br>
-  ```pip install -r requirements.txt```
+5. Install the required dependencies:</br>
+  ```
+pip install -r requirements.txt
+```
 
-4. Run the tool by executing the main.py script:</br>
-  ```python main.py```
+7. Run the tool by executing the main.py script:</br>
+  ```
+python main.py
+```
 
-5. Follow the on-screen prompts to enter the path of the directory you want to search for hidden files.
+9. Follow the on-screen prompts to enter the path of the directory you want to search for hidden files.
 
-6. Once the search is complete, the tool will display the hidden files found along with their file types.
+10. Once the search is complete, the tool will display the hidden files found along with their file types.
 
 ## Example
 
